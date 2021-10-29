@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anccnuer.github.io</id>
     <title>我の小站</title>
-    <updated>2021-10-29T06:53:12.921Z</updated>
+    <updated>2021-10-29T09:02:36.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anccnuer.github.io"/>
     <link rel="self" href="https://anccnuer.github.io/atom.xml"/>
@@ -10,4 +10,27 @@
     <logo>https://anccnuer.github.io/images/avatar.png</logo>
     <icon>https://anccnuer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 我の小站</rights>
+    <entry>
+        <title type="html"><![CDATA[关于you-get的一些想法]]></title>
+        <id>https://anccnuer.github.io/post/guan-yu-you-get-de-yi-xie-xiang-fa/</id>
+        <link href="https://anccnuer.github.io/post/guan-yu-you-get-de-yi-xie-xiang-fa/">
+        </link>
+        <updated>2021-10-29T06:53:33.000Z</updated>
+        <content type="html"><![CDATA[<p>上个月回看自己高中时候的歌单，有一首特别想听的歌曲vip了，我又想听，又不想买vip。于是我就用you-get尝试了一下，结果真的成功了。<br>
+具体步骤：<br>
++ 打开网页版酷我音乐<br>
++ 搜索出来想听的歌曲<br>
++ 打开这首歌的主页面<br>
++ 这个页面的链接后面的数字就是这首歌的id（这个链接不能用，要改一下，会用到这个id）<br>
++ 命令：you-get http://www.kuwo.cn/music/id 即可下载<br>
+很不错，现在可以白嫖😀但是随着版权意识的增强，<s>万恶的资本家</s>各大音乐商一定会限制掉这个小漏洞。那么趁着现在还能用的时候多下载一些就很有必要了。<br>
+因为you-get是python的库，那么是否可以写一个python脚本来批量下载，我好像有点黑心🤣<br>
+具体的思路：<br>
++ python爬虫爬取音乐的主页链接<br>
++ 对链接进行处理<br>
++ 调用you-get<br>
+而且可以加一个多线程，再整一个代理ip，每爬几个就换一个ip。<br>
+另外，在本地跑这个脚本可能要很长时间，最好塞进服务器，然后调用OneDrive的api，把下载到的音乐上传到云盘里。完美✌😎</p>
+]]></content>
+    </entry>
 </feed>
