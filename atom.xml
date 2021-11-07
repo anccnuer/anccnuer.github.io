@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anccnuer.github.io</id>
     <title>我の小站</title>
-    <updated>2021-11-02T02:34:47.137Z</updated>
+    <updated>2021-11-07T04:52:09.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anccnuer.github.io"/>
     <link rel="self" href="https://anccnuer.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://anccnuer.github.io/images/avatar.png</logo>
     <icon>https://anccnuer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 我の小站</rights>
+    <entry>
+        <title type="html"><![CDATA[【罗翔】稻香]]></title>
+        <id>https://anccnuer.github.io/post/zhang-san/</id>
+        <link href="https://anccnuer.github.io/post/zhang-san/">
+        </link>
+        <updated>2021-11-07T04:45:27.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>我们登上并非我们所选择的舞台，演出并非我们所选择的剧本，可即使生活在泥沼之中，依然有人会仰望星空</p>
+</blockquote>
+<iframe src="//player.bilibili.com/player.html?aid=548980305&bvid=BV1Dq4y1g7Yd&cid=433451265&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<style>
+iframe{
+    width:100%;
+    height:100%;
+}
+<style/>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于you-get的一些想法]]></title>
         <id>https://anccnuer.github.io/post/guan-yu-you-get-de-yi-xie-xiang-fa/</id>
