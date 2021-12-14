@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anccnuer.github.io</id>
     <title>我の小站</title>
-    <updated>2021-11-19T06:20:47.803Z</updated>
+    <updated>2021-12-14T11:33:11.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anccnuer.github.io"/>
     <link rel="self" href="https://anccnuer.github.io/atom.xml"/>
@@ -22,8 +22,8 @@
 <iframe src="//player.bilibili.com/player.html?aid=548980305&bvid=BV1Dq4y1g7Yd&cid=433451265&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <style>
 iframe{
-    width:100%;
-    height:100%;
+    width:auto;
+    height:500px;
 }
 <style/>]]></content>
     </entry>
