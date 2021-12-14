@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anccnuer.github.io</id>
     <title>我の小站</title>
-    <updated>2021-12-14T11:34:21.600Z</updated>
+    <updated>2021-12-14T11:50:25.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anccnuer.github.io"/>
     <link rel="self" href="https://anccnuer.github.io/atom.xml"/>
@@ -19,10 +19,12 @@
         <content type="html"><![CDATA[<blockquote>
 <p>我们登上并非我们所选择的舞台，演出并非我们所选择的剧本，可即使生活在泥沼之中，依然有人会仰望星空</p>
 </blockquote>
+<div>
 <iframe src="//player.bilibili.com/player.html?aid=548980305&bvid=BV1Dq4y1g7Yd&cid=433451265&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div>
 <style>
 iframe{
-    width:auto;
+    width:100%;
     height:500px;
 }
 <style/>]]></content>
